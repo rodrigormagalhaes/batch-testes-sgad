@@ -1,0 +1,1 @@
+java -jar testes-sgad.jar parametros.txt
