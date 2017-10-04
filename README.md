@@ -7,8 +7,10 @@
 
 Ex.:
 ```sh
-http://www.google.com.br
-44980433000126
-66864509010
+url=http://www.google.com.br
+user=teste
+pwd=teste
+cnpj=45360825000155
+cpf=83440924009
 ```
 - Duplo clique em testes-sgad.bat
