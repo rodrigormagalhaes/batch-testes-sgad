@@ -1,1 +1,1 @@
-java -jar testes-sgad.jar parametros.txt
+java -jar testes-sgad.jar parametros.properties

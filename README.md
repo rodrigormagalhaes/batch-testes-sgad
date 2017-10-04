@@ -3,7 +3,7 @@
 
 #### Executar testes:
 
-- Adicionar url do SGAD, cnpj e cpf, nessa ordem, no arquivo parametros.txt
+- Adicionar url do SGAD, usuário, senha, cnpj e cpf, no arquivo parametros.txt
 
 Ex.:
 ```sh
