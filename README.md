@@ -3,7 +3,9 @@
 
 #### Executar testes:
 
-- Adicionar url do SGAD, usuário, senha, cnpj e cpf, no arquivo parametros.txt
+- No arquivo parametros.properties, adicionar:
+> - url do SGAD, usuário, senha
+> - cnpj e cpf para criação da boleta
 
 Ex.:
 ```sh
